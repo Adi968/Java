@@ -5,5 +5,6 @@ class Sum
         int a=7;
         int b=9;
         System.out.println("Sum of %d and %d is %d",a,b,a+b);
+        System.out.println("Hello Sum");
     }
 }
